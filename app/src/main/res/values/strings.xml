@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorTestApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="txt_accelerometer">Accelerometer (m/s\u00b2)</string>
+    <string name="txt_achse_x">x-Achse</string>
+    <string name="txt_achse_y">y-Achse</string>
+    <string name="txt_achse_z">z-Achse</string>
+    <string name="txt_wert_achse_x">0</string>
+    <string name="txt_wert_achse_y">0</string>
+    <string name="txt_wert_achse_z">0</string>
+</resources>
